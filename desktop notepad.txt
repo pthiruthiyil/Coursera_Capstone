@@ -1,0 +1,24 @@
+String and Tuples are immutable
+sort tuples by sorted((3,4,5,2))
+List is mutable
+use + for append new tuples and lists
+extend
+append
+del(a[3]).. pass key for dictionary
+clone by l3=l1[:]
+
+Values in dictionaries can be mutable , immutable and nonunique
+
+for adding new values to dictionary ,just pass d['newkey'] = 'new value'
+
+sets are unordered
+
+sets can have only unique elements
+
+replace na with a value
+df['column name'].replace(np.na,new value)
+rename the column
+df.rename(
+motif	
+
+
